@@ -1,0 +1,1499 @@
+id_company,date_waste,kitchen,shift,type_waste,weight,covers,heatmap,heatmap_text
+APAC Hyatt Seoul SELRS,2022-04-12,Bakery,Breakfast,buffet,1.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-12,Commissary,Breakfast,preparation,1.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-12,Commissary,Breakfast,preparation,2.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-12,Commissary,Breakfast,preparation,65.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Breakfast,preparation,0.893,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-11,Epice,Dinner,preparation,0.6,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Dinner,plate,13.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Dinner,preparation,0.2,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Dinner,preparation,3.38,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Dinner,preparation,0.761,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-11,Bakery,Dinner,buffet,5.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-11,Bakery,Dinner,buffet,4.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-11,Bakery,Dinner,preparation,1.3,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-11,Agra,Lunch,preparation,0.5,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-11,Agra,Lunch,preparation,1.2,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-11,Agra,Breakfast,preparation,0.5,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-11,Agra,Breakfast,buffet,1.5,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-11,Agra,Breakfast,spoilage,0.45,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-11,Agra,Breakfast,preparation,2.3,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-11,Agra,Breakfast,preparation,2.47,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Lunch,plate,13.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-11,Bakery,Lunch,preparation,0.8,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-11,Bakery,Lunch,spoilage,1.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-11,Bakery,Dinner,preparation,1.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-11,Bakery,Dinner,preparation,2.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Breakfast,preparation,1.4,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-11,Bakery,Dinner,preparation,3.3,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Breakfast,preparation,1.3,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-11,Bakery,Dinner,preparation,1.7,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-11,Bakery,Lunch,buffet,6.4,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-11,Bakery,Lunch,buffet,3.2,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Breakfast,plate,7.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-11,Bakery,Lunch,buffet,0.9,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-11,Bakery,Lunch,buffet,3.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-11,Bakery,Lunch,preparation,20.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Breakfast,preparation,13.9,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Breakfast,preparation,9.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Breakfast,preparation,1.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Lunch,buffet,0.1,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Breakfast,buffet,0.2,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Breakfast,buffet,4.3,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Breakfast,buffet,3.1,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Breakfast,buffet,0.9,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Breakfast,buffet,0.3,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Breakfast,buffet,1.3,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Breakfast,buffet,2.3,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Breakfast,buffet,1.2,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Breakfast,buffet,5.3,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Breakfast,buffet,3.2,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Breakfast,buffet,3.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Breakfast,buffet,0.7,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Breakfast,buffet,0.6,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-11,Bakery,Breakfast,buffet,1.2,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-11,Market Cafe,Breakfast,preparation,0.93,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-10,Market Cafe,Breakfast,buffet,1.0,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-10,Epice,Dinner,preparation,0.5,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-10,Epice,Dinner,preparation,0.6,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-10,Bakery,Dinner,buffet,5.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-10,Market Cafe,Breakfast,preparation,1.02,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-10,Market Cafe,Dinner,preparation,0.29,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-10,Market Cafe,Breakfast,preparation,1.35,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-10,Bakery,Breakfast,buffet,1.1,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-10,Market Cafe,Lunch,spoilage,0.117,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-10,Market Cafe,Breakfast,preparation,0.457,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-10,Market Cafe,Lunch,preparation,0.75,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-10,Market Cafe,Breakfast,buffet,1.371,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-10,Market Cafe,Breakfast,buffet,0.83,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-10,Market Cafe,Breakfast,buffet,0.838,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-10,Market Cafe,Breakfast,buffet,0.796,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-10,Market Cafe,Breakfast,buffet,0.615,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-10,Market Cafe,Breakfast,buffet,0.578,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-10,Bakery,Lunch,preparation,6.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-10,Bakery,Lunch,preparation,6.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-10,Bakery,Lunch,buffet,0.8,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-10,Bakery,Lunch,buffet,0.9,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-10,Bakery,Breakfast,buffet,0.8,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-10,Bakery,Lunch,preparation,1.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-10,Bakery,Breakfast,buffet,2.6,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-10,Agra,Breakfast,buffet,0.7,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-10,Agra,Breakfast,preparation,7.0,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-10,Agra,Breakfast,preparation,1.237,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-10,Bakery,Lunch,preparation,11.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-10,Commissary,Breakfast,preparation,54.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-09,Bakery,Dinner,preparation,2.1,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-10,Commissary,Breakfast,preparation,2.08,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-09,Bakery,Lunch,buffet,4.6,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-09,Bakery,Breakfast,buffet,1.4,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-09,Agra,Lunch,plate,0.2,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-09,Agra,Lunch,plate,0.05,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-09,Agra,Lunch,plate,0.1,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-09,Epice,Breakfast,preparation,1.35,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-09,Bakery,Breakfast,buffet,2.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-09,Bakery,Breakfast,buffet,0.7,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-09,Bakery,Breakfast,buffet,2.6,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-09,Commissary,Lunch,preparation,1.8,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-09,Commissary,Lunch,preparation,3.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-09,Commissary,Lunch,preparation,84.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-09,Commissary,Lunch,preparation,6.8,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-09,Bakery,Lunch,preparation,7.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-09,Bakery,Lunch,preparation,8.6,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-09,Epice,Lunch,preparation,0.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-09,Bakery,Lunch,preparation,0.2,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-09,Epice,Breakfast,preparation,9.0,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-09,Epice,Breakfast,spoilage,0.1,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-09,Epice,Breakfast,spoilage,0.141,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-09,Epice,Breakfast,spoilage,0.15,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-09,Epice,Breakfast,spoilage,0.46,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-09,Epice,Breakfast,spoilage,0.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-09,Bakery,Breakfast,buffet,1.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-09,Bakery,Breakfast,preparation,0.78,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-08,Banquet,Dinner,plate,65.48,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-08,Bakery,Dinner,buffet,1.2,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-08,Banquet,Dinner,preparation,7.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-08,Bakery,Dinner,buffet,1.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-08,Bakery,Dinner,buffet,1.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-08,Bakery,Dinner,buffet,4.58,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-08,Commissary,Lunch,preparation,33.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-08,Commissary,Lunch,preparation,1.8,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-08,Commissary,Breakfast,preparation,0.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-08,Commissary,Breakfast,preparation,49.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-08,Bakery,Lunch,buffet,1.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-08,Bakery,Lunch,buffet,4.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-08,Bakery,Lunch,preparation,24.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-08,Bakery,Lunch,preparation,2.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-08,Bakery,Lunch,preparation,1.99,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-08,Bakery,Lunch,preparation,0.74,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-07,Bakery,Dinner,buffet,5.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-04-07,Event,Lunch,preparation,5.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-07,Bakery,Dinner,buffet,3.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-07,Bakery,Dinner,buffet,3.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-07,Commissary,Lunch,preparation,3.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-07,Bakery,Lunch,preparation,3.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-07,Bakery,Lunch,preparation,3.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-07,Bakery,Lunch,buffet,4.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-07,Bakery,Lunch,buffet,2.6,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-07,Bakery,Lunch,buffet,0.9,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-07,Commissary,Breakfast,preparation,23.4,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-07,Bakery,Lunch,buffet,1.2,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-07,Commissary,Lunch,preparation,15.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-07,Commissary,Breakfast,preparation,20.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-07,Commissary,Breakfast,preparation,1.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-07,Commissary,Lunch,preparation,0.8,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-07,Bakery,Lunch,preparation,20.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-07,Bakery,Lunch,preparation,1.8,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-07,Bakery,Breakfast,buffet,1.4,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-07,Bakery,Breakfast,preparation,0.8,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-06,Bakery,Dinner,preparation,0.6,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-06,Bakery,Lunch,buffet,3.4,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-06,Bakery,Breakfast,buffet,1.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-06,Bakery,Breakfast,buffet,8.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-06,Commissary,Dinner,preparation,0.36,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-06,Commissary,Dinner,preparation,23.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-06,Commissary,Dinner,preparation,0.7,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-06,Commissary,Breakfast,preparation,13.6,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-06,Commissary,Breakfast,preparation,48.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-06,Commissary,Breakfast,preparation,11.55,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-06,Commissary,Breakfast,preparation,5.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-06,Bakery,Dinner,spoilage,3.6,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-04-06,Event,Lunch,preparation,3.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-06,Bakery,Lunch,preparation,1.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-06,Bakery,Lunch,spoilage,1.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-04-06,Event,Lunch,buffet,2.597,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-06,Bakery,Lunch,preparation,7.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-06,Bakery,Lunch,preparation,8.3,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-06,Bakery,Lunch,buffet,1.7,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-06,Bakery,Lunch,preparation,1.9,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-06,Bakery,Lunch,buffet,1.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-06,Bakery,Lunch,buffet,2.8,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-06,Bakery,Lunch,buffet,3.9,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-06,Bakery,Lunch,spoilage,2.3,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-06,Bakery,Lunch,spoilage,3.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-06,Bakery,Breakfast,buffet,1.74,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-05,Bakery,Lunch,preparation,0.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-05,Bakery,Breakfast,preparation,1.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-05,Bakery,Lunch,preparation,5.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-05,Bakery,Lunch,buffet,1.9,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-05,Bakery,Breakfast,buffet,1.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-05,Bakery,Breakfast,preparation,4.6,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-05,Commissary,Dinner,preparation,56.8,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-05,Commissary,Dinner,preparation,0.25,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-05,Commissary,Dinner,preparation,0.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-05,Commissary,Breakfast,preparation,49.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-05,Commissary,Breakfast,preparation,10.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-05,Commissary,Breakfast,preparation,3.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-05,Bakery,Dinner,buffet,1.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-05,Bakery,Lunch,buffet,1.7,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-05,Bakery,Lunch,buffet,5.3,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-04,Bakery,Breakfast,spoilage,0.4,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-04,Bakery,Breakfast,preparation,1.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-04,Bakery,Breakfast,buffet,0.9,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-04,Bakery,Lunch,buffet,5.9,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-04,Bakery,Lunch,buffet,2.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-04,Bakery,Breakfast,preparation,0.9,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-04,Bakery,Breakfast,preparation,6.1,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-04,Commissary,Dinner,preparation,1.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-04,Commissary,Dinner,preparation,3.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-04,Commissary,Dinner,preparation,100.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-04,Commissary,Dinner,preparation,5.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-04,Commissary,Breakfast,preparation,5.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-04,Commissary,Breakfast,preparation,68.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-04,Commissary,Breakfast,preparation,7.97,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-04,Commissary,Breakfast,preparation,1.23,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-04-04,Staff Canteen,Lunch,buffet,0.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-21,Bakery,Dinner,preparation,0.8,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-04-04,Event,Lunch,preparation,1.741,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-04-04,Event,Lunch,spoilage,0.61,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-04-04,Event,Lunch,preparation,1.733,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-04,Bakery,Lunch,buffet,2.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-04,Bakery,Lunch,buffet,1.7,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-04,Bakery,Lunch,buffet,3.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-04-04,Event,Lunch,preparation,6.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-04-04,Event,Lunch,preparation,1.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-04,Bakery,Dinner,preparation,3.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-04,Bakery,Breakfast,preparation,0.819,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-04,Bakery,Breakfast,buffet,3.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-04,Bakery,Breakfast,buffet,1.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-03,Bakery,Breakfast,preparation,1.8,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-03,Commissary,Dinner,preparation,0.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-03,Commissary,Dinner,preparation,23.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-03,Commissary,Breakfast,preparation,79.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-03,Commissary,Breakfast,preparation,15.8,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-03,Commissary,Breakfast,preparation,4.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-03-29,Banquet,Lunch,buffet,2.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-19,Commissary,Breakfast,preparation,24.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-19,Commissary,Breakfast,preparation,1.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-18,Bakery,Dinner,preparation,0.5,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-04-18,Event,Breakfast,preparation,1.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-18,Commissary,Breakfast,preparation,13.9,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-18,Commissary,Breakfast,preparation,43.8,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-18,Commissary,Breakfast,preparation,20.7,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-17,Bakery,Dinner,preparation,3.4,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-17,Bakery,Dinner,buffet,4.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-17,Bakery,Breakfast,buffet,1.4,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-17,Cang Yue,Lunch,preparation,1.44,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-17,Cang Yue,Dinner,preparation,1.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-17,Cang Yue,Lunch,preparation,5.22,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-17,Cang Yue,Lunch,preparation,2.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-17,Cang Yue,Lunch,preparation,1.5,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-17,Cang Yue,Lunch,preparation,2.29,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-17,Cang Yue,Lunch,preparation,3.9,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-17,Cang Yue,Lunch,preparation,0.17,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-17,Cang Yue,Lunch,preparation,6.45,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-17,Cang Yue,Lunch,preparation,4.1,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-17,Cang Yue,Lunch,preparation,1.25,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-17,Bakery,Lunch,preparation,5.4,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-17,Cang Yue,Lunch,preparation,0.5,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-17,Cang Yue,Lunch,preparation,6.6,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-17,Cang Yue,Lunch,preparation,1.105,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-17,Cang Yue,Lunch,preparation,3.6,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-17,Cang Yue,Lunch,preparation,2.2,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-17,Commissary,Breakfast,preparation,17.1,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-17,Commissary,Breakfast,preparation,37.4,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-17,Cang Yue,Lunch,preparation,1.4,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-16,Bakery,Breakfast,buffet,1.3,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-16,Bakery,Lunch,buffet,1.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-16,Bakery,Lunch,buffet,3.0,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-16,Agra,Dinner,preparation,1.51,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-16,Bakery,Dinner,buffet,1.55,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-04-16,Event,Dinner,preparation,2.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-16,Bakery,Lunch,preparation,7.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-16,Bakery,Lunch,preparation,9.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-16,Commissary,Breakfast,preparation,12.7,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-16,Bakery,Breakfast,buffet,1.6,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-16,Commissary,Breakfast,preparation,0.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-16,Commissary,Breakfast,preparation,22.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-15,Bakery,Dinner,preparation,1.2,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-15,Shunpachi,Dinner,preparation,0.6,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-15,Shunpachi,Dinner,plate,3.4,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-15,Bakery,Breakfast,buffet,2.4,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-15,Bakery,Lunch,buffet,3.9,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-15,Bakery,Lunch,buffet,2.6,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-15,Bakery,Breakfast,buffet,5.8,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-15,Commissary,Breakfast,preparation,0.2,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-15,Commissary,Breakfast,preparation,7.5,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-15,Shunpachi,Breakfast,preparation,0.301,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-15,Shunpachi,Breakfast,preparation,0.85,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-15,Bakery,Lunch,preparation,5.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-15,Bakery,Lunch,preparation,5.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-15,Bakery,Breakfast,buffet,2.115,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-14,Bakery,Breakfast,preparation,0.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-14,Bakery,Dinner,buffet,1.46,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-14,Bakery,Dinner,buffet,9.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-14,Bakery,Lunch,preparation,0.96,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-14,Bakery,Lunch,buffet,3.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-14,Bakery,Lunch,buffet,0.9,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-14,Bakery,Lunch,buffet,3.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-14,Bakery,Lunch,buffet,3.9,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-14,Agra,Breakfast,buffet,1.86,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-14,Agra,Breakfast,preparation,1.08,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-14,Agra,Breakfast,preparation,1.206,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-14,Commissary,Breakfast,preparation,0.39,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-14,Commissary,Breakfast,preparation,30.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-14,Bakery,Breakfast,preparation,0.3,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-14,Bakery,Breakfast,buffet,1.87,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-13,Agra,Breakfast,buffet,2.6,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-13,Agra,Breakfast,preparation,2.5,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-13,Agra,Breakfast,preparation,2.2,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-13,Agra,Breakfast,preparation,1.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-13,Bakery,Lunch,buffet,3.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-13,Bakery,Breakfast,buffet,1.3,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-13,Bakery,Lunch,buffet,1.3,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-13,Bakery,Breakfast,buffet,4.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-13,Bakery,Lunch,buffet,2.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-13,Bakery,Lunch,buffet,3.3,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-13,Bakery,Lunch,buffet,2.6,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-13,Bakery,Lunch,preparation,8.4,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-13,Bakery,Lunch,buffet,1.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-13,Bakery,Lunch,buffet,1.8,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-13,Commissary,Breakfast,preparation,2.2,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-13,Commissary,Breakfast,preparation,8.8,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-13,Bakery,Breakfast,preparation,2.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-13,Bakery,Breakfast,buffet,1.2,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-12,Agra,Lunch,spoilage,0.5,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-12,Agra,Lunch,preparation,2.0,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-12,Agra,Breakfast,buffet,3.2,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-12,Agra,Lunch,preparation,1.2,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-12,Agra,Breakfast,preparation,3.2,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-12,Agra,Breakfast,preparation,0.55,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-12,Agra,Breakfast,preparation,2.88,,1.0,C
+APAC Hyatt Solo SOCAL,2022-04-12,Agra,Breakfast,preparation,2.85,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-12,Bakery,Lunch,buffet,4.3,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-12,Bakery,Lunch,buffet,3.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-12,Bakery,Breakfast,buffet,1.8,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-12,Bakery,Breakfast,buffet,3.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-12,Bakery,Dinner,preparation,1.8,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-12,Bakery,Lunch,buffet,2.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-12,Bakery,Lunch,buffet,2.7,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-12,Bakery,Lunch,buffet,2.6,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-12,Bakery,Lunch,buffet,0.9,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-12,Bakery,Lunch,preparation,7.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-12,Commissary,Lunch,preparation,40.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-12,Commissary,Lunch,preparation,2.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-12,Commissary,Lunch,preparation,1.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-19,Bakery,Lunch,preparation,1.3,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-19,Bakery,Lunch,preparation,0.975,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-19,Bakery,Lunch,preparation,0.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-19,Bakery,Dinner,buffet,1.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-19,Bakery,Dinner,buffet,0.01,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-19,Bakery,Dinner,buffet,1.8,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-19,Bakery,Dinner,buffet,2.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-19,Bakery,Dinner,buffet,2.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-19,Bakery,Dinner,buffet,0.8,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-19,Bakery,Dinner,buffet,0.05,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-19,Bakery,Dinner,buffet,1.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-19,Bakery,Dinner,buffet,5.23,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-20,Bakery,Breakfast,buffet,1.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-20,Commissary,Breakfast,preparation,1.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-20,Commissary,Breakfast,preparation,5.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-20,Bakery,Lunch,preparation,3.2,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-04-19,Event,Lunch,spoilage,3.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-20,Bakery,Breakfast,spoilage,1.8,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-20,Bakery,Breakfast,preparation,0.9,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-20,Bakery,Breakfast,preparation,1.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-21,Commissary,Breakfast,preparation,1.7,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-21,Commissary,Breakfast,preparation,14.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-21,Bakery,Dinner,preparation,0.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-22,Commissary,Breakfast,preparation,0.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-22,Commissary,Breakfast,preparation,18.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-22,Commissary,Breakfast,preparation,1.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-22,Bakery,Breakfast,buffet,1.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-22,Bakery,Breakfast,preparation,2.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-22,Bakery,Dinner,buffet,2.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-22,Bakery,Dinner,buffet,0.4,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-22,Bakery,Dinner,preparation,0.4,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-23,Commissary,Breakfast,preparation,2.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-23,Commissary,Breakfast,preparation,1.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-23,Commissary,Breakfast,preparation,20.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-23,Commissary,Breakfast,preparation,24.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-23,Bakery,Lunch,preparation,4.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-23,Bakery,Lunch,preparation,6.6,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-23,Bakery,Lunch,buffet,2.44,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-23,Bakery,Lunch,preparation,3.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-23,Bakery,Dinner,preparation,3.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-23,Bakery,Dinner,preparation,1.4,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-24,Bakery,Lunch,preparation,4.2,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-24,Commissary,Breakfast,preparation,1.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-24,Commissary,Breakfast,preparation,24.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-24,Commissary,Breakfast,preparation,20.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-24,Banquet,Breakfast,preparation,0.37,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-24,Banquet,Breakfast,preparation,12.7,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-24,Bakery,Dinner,preparation,5.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-24,Bakery,Dinner,buffet,1.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-24,Bakery,Dinner,preparation,1.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-24,Bakery,Dinner,buffet,1.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-24,Bakery,Dinner,buffet,1.7,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-24,Bakery,Dinner,preparation,2.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-25,Bakery,Lunch,preparation,2.4,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-25,Commissary,Breakfast,preparation,8.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-25,Commissary,Breakfast,preparation,1.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-16,Bakery,Breakfast,buffet,2.3,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-04-25,Event,Dinner,spoilage,10.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-25,Bakery,Dinner,buffet,2.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-25,Bakery,Dinner,buffet,1.13,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-25,Bakery,Dinner,buffet,0.88,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-26,Bakery,Breakfast,preparation,0.6,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-26,Bakery,Breakfast,spoilage,1.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-26,Bakery,Breakfast,buffet,1.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-26,Bakery,Breakfast,buffet,2.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-26,Bakery,Lunch,buffet,0.9,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-26,Commissary,Breakfast,preparation,3.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-26,Commissary,Breakfast,preparation,25.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-26,Bakery,Dinner,buffet,1.85,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-27,Commissary,Breakfast,preparation,3.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-27,Commissary,Breakfast,preparation,56.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-27,Commissary,Breakfast,preparation,5.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-27,Commissary,Lunch,preparation,0.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-27,Market Cafe,Breakfast,preparation,1.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-27,Market Cafe,Breakfast,preparation,0.33,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-27,Market Cafe,Breakfast,preparation,3.56,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-27,Market Cafe,Breakfast,preparation,4.2,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-27,Market Cafe,Breakfast,buffet,5.38,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-27,Market Cafe,Breakfast,plate,31.3,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-27,Shunpachi,Dinner,preparation,1.58,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-27,Bakery,Lunch,buffet,1.4,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-27,Shunpachi,Dinner,preparation,0.3,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-27,Shunpachi,Dinner,preparation,0.2,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-27,Shunpachi,Dinner,preparation,0.4,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-27,Shunpachi,Dinner,preparation,0.6,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-27,Shunpachi,Dinner,preparation,0.176,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-27,Shunpachi,Dinner,preparation,0.084,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-27,Shunpachi,Dinner,preparation,1.08,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-27,Shunpachi,Dinner,preparation,1.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-27,Shunpachi,Dinner,preparation,0.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-27,Bakery,Dinner,buffet,2.8,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-27,Bakery,Dinner,buffet,2.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-27,Bakery,Breakfast,preparation,3.5,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-27,Shunpachi,Dinner,preparation,0.97,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-27,Shunpachi,Dinner,preparation,0.127,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-27,Shunpachi,Dinner,preparation,0.114,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-27,Shunpachi,Dinner,preparation,0.087,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-27,Shunpachi,Dinner,preparation,1.8,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-27,Shunpachi,Dinner,preparation,1.9,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-27,Shunpachi,Dinner,preparation,2.6,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-27,Bakery,Dinner,preparation,4.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-27,Shunpachi,Dinner,plate,5.2,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-28,Cang Yue,Breakfast,preparation,0.2,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-28,Market Cafe,Breakfast,preparation,5.6,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-28,Market Cafe,Breakfast,buffet,6.73,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-28,Market Cafe,Breakfast,plate,17.85,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-28,Bakery,Dinner,preparation,1.3,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-28,Shunpachi,Dinner,preparation,1.39,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-28,Shunpachi,Dinner,preparation,1.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-28,Commissary,Breakfast,preparation,66.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-28,Commissary,Breakfast,preparation,6.6,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-28,Commissary,Lunch,preparation,4.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-28,Commissary,Lunch,preparation,5.5,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-28,Shunpachi,Dinner,preparation,2.3,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-28,Bakery,Dinner,buffet,5.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-28,Bakery,Dinner,buffet,2.6,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-28,Bakery,Breakfast,preparation,3.2,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-28,Shunpachi,Dinner,preparation,4.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-28,Shunpachi,Dinner,preparation,1.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-28,Bakery,Dinner,buffet,1.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-28,Bakery,Dinner,preparation,2.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-28,Bakery,Dinner,preparation,1.1,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-28,Shunpachi,Dinner,plate,11.6,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-28,Shunpachi,Dinner,preparation,0.9,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-29,Market Cafe,Breakfast,preparation,3.12,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-29,Market Cafe,Breakfast,preparation,2.8,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-29,Market Cafe,Breakfast,preparation,1.4,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-29,Market Cafe,Breakfast,buffet,2.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-29,Market Cafe,Breakfast,buffet,0.91,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-29,Market Cafe,Breakfast,plate,21.31,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-29,Cang Yue,Breakfast,preparation,0.13,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-29,Cang Yue,Breakfast,preparation,0.16,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-29,Bakery,Lunch,buffet,1.2,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-29,Cang Yue,Breakfast,preparation,2.1,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-29,Shunpachi,Dinner,preparation,1.035,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-29,Commissary,Breakfast,preparation,54.9,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-29,Commissary,Breakfast,preparation,4.7,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-29,Commissary,Lunch,preparation,10.8,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-29,Commissary,Lunch,preparation,7.2,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-29,Shunpachi,Dinner,preparation,0.593,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-29,Shunpachi,Dinner,preparation,0.18,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-29,Bakery,Dinner,buffet,2.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-29,Bakery,Dinner,preparation,1.5,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-29,Shunpachi,Dinner,preparation,4.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-29,Bakery,Dinner,preparation,1.1,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-29,Shunpachi,Dinner,plate,5.8,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-30,Shunpachi,Dinner,preparation,0.6,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-30,Commissary,Breakfast,preparation,100.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-30,Commissary,Breakfast,preparation,15.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-30,Commissary,Breakfast,preparation,4.2,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-30,Commissary,Lunch,preparation,4.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-30,Shunpachi,Dinner,preparation,0.51,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-30,Bakery,Breakfast,buffet,5.77,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-30,Bakery,Dinner,preparation,2.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-30,Bakery,Dinner,preparation,0.5,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-30,Shunpachi,Dinner,preparation,8.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-05-12,Event,Dinner,preparation,4.65,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-30,Shunpachi,Dinner,preparation,6.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-30,Shunpachi,Dinner,preparation,4.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-30,Bakery,Dinner,buffet,2.5,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-30,Shunpachi,Dinner,preparation,0.11,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-30,Shunpachi,Dinner,preparation,1.2,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-30,Shunpachi,Dinner,preparation,1.47,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-30,Shunpachi,Dinner,preparation,3.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-30,Shunpachi,Dinner,plate,8.5,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-04-30,Shunpachi,Dinner,preparation,0.8,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-01,Bakery,Breakfast,buffet,2.2,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-01,Market Cafe,Lunch,preparation,3.2,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-01,Market Cafe,Lunch,preparation,5.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-01,Market Cafe,Lunch,preparation,3.4,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-01,Market Cafe,Lunch,preparation,6.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-01,Market Cafe,Lunch,preparation,8.2,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-01,Market Cafe,Lunch,buffet,12.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-01,Market Cafe,Lunch,plate,57.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-01,Commissary,Lunch,preparation,25.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-01,Commissary,Breakfast,preparation,25.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-01,Commissary,Breakfast,preparation,11.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-01,Commissary,Lunch,preparation,4.9,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-01,Commissary,Dinner,preparation,6.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-01,Bakery,Lunch,preparation,5.1,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-01,Market Cafe,Dinner,preparation,5.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-01,Market Cafe,Dinner,preparation,6.2,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-01,Market Cafe,Dinner,preparation,3.1,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-01,Market Cafe,Dinner,preparation,5.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-01,Market Cafe,Dinner,preparation,6.83,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-01,Market Cafe,Dinner,preparation,6.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-01,Market Cafe,Dinner,buffet,12.33,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-01,Market Cafe,Dinner,plate,53.84,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-01,Bakery,Dinner,preparation,2.1,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-02,Commissary,Lunch,preparation,21.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-02,Commissary,Breakfast,preparation,14.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-02,Commissary,Lunch,preparation,2.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-02,Commissary,Lunch,preparation,3.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-02,Commissary,Lunch,preparation,4.4,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-02,Bakery,Lunch,buffet,1.3,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-02,Bakery,Dinner,preparation,2.8,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-02,Bakery,Dinner,buffet,1.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-03,Commissary,Breakfast,preparation,23.9,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-03,Commissary,Breakfast,preparation,2.9,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-03,Commissary,Lunch,preparation,54.4,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-03,Commissary,Lunch,preparation,6.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-03,Commissary,Lunch,preparation,12.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-03,Bakery,Dinner,buffet,1.2,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-05-03,Event,Dinner,preparation,1.5,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-04-26,Staff Canteen,Dinner,plate,24.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-15,Bakery,Dinner,preparation,2.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-04,Bakery,Breakfast,buffet,2.1,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-04,Shunpachi,Lunch,preparation,2.48,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-04,Shunpachi,Lunch,preparation,1.74,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-04,Bakery,Lunch,preparation,17.2,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-04,Commissary,Lunch,preparation,2.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-04,Commissary,Breakfast,preparation,25.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-04,Commissary,Breakfast,preparation,20.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-04,Commissary,Lunch,preparation,20.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-04,Commissary,Dinner,preparation,20.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-04,Shunpachi,Lunch,preparation,0.78,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-04,Shunpachi,Lunch,preparation,1.2,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-04,Shunpachi,Lunch,preparation,2.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-04,Shunpachi,Lunch,preparation,1.4,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-04,Shunpachi,Lunch,preparation,4.3,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-08,Bakery,Breakfast,buffet,4.7,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-06,Bakery,Dinner,buffet,7.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-04-09,Bakery,Dinner,buffet,7.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-05,Bakery,Breakfast,buffet,2.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-05,Commissary,Lunch,preparation,2.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-05,Commissary,Lunch,preparation,3.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-05,Commissary,Lunch,preparation,20.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-05,Commissary,Dinner,preparation,20.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-05,Commissary,Breakfast,preparation,20.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-05,Commissary,Lunch,preparation,17.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-05,Commissary,Dinner,preparation,17.7,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-05,Commissary,Lunch,preparation,15.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-06,Commissary,Breakfast,preparation,38.6,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-06,Commissary,Breakfast,preparation,0.8,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-06,Commissary,Lunch,preparation,1.8,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-06,Commissary,Lunch,preparation,5.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-06,Commissary,Lunch,preparation,0.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-07,Bakery,Dinner,preparation,6.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-07,Commissary,Breakfast,preparation,50.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-07,Commissary,Breakfast,preparation,4.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-07,Commissary,Lunch,preparation,4.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-07,Banquet,Dinner,preparation,12.7,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-07,Bakery,Breakfast,buffet,2.16,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-08,Bakery,Breakfast,buffet,2.2,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-08,Commissary,Breakfast,preparation,73.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-08,Commissary,Lunch,preparation,8.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-08,Commissary,Lunch,preparation,5.2,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-05-08,Event,Dinner,preparation,3.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-08,Bakery,Dinner,buffet,1.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-09,Bakery,Breakfast,buffet,2.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-09,Commissary,Breakfast,preparation,7.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-09,Commissary,Breakfast,preparation,48.8,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-09,Commissary,Lunch,preparation,1.4,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-09,Commissary,Lunch,preparation,3.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-09,Commissary,Lunch,preparation,50.7,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-09,Commissary,Lunch,preparation,31.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-05-09,Event,Dinner,preparation,3.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-09,Bakery,Dinner,preparation,1.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-10,Bakery,Breakfast,buffet,2.1,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-10,Commissary,Lunch,preparation,2.8,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-10,Commissary,Lunch,preparation,2.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-10,Commissary,Breakfast,preparation,20.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-10,Commissary,Lunch,preparation,23.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-10,Commissary,Dinner,preparation,25.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-11,Bakery,Breakfast,buffet,2.4,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-11,Bakery,Breakfast,buffet,2.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-11,Commissary,Breakfast,preparation,57.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-11,Commissary,Breakfast,preparation,1.6,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-11,Commissary,Lunch,preparation,2.8,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-11,Shunpachi,Dinner,spoilage,0.4,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-15,Sowol Ro,Breakfast,plate,0.12,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-12,Bakery,Breakfast,buffet,3.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-12,Commissary,Breakfast,preparation,47.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-12,Commissary,Breakfast,preparation,1.8,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-12,Commissary,Lunch,preparation,4.88,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-12,Commissary,Lunch,preparation,6.3,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-12,Shunpachi,Dinner,spoilage,1.1,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-13,Commissary,Breakfast,preparation,55.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-13,Commissary,Breakfast,preparation,0.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-13,Commissary,Lunch,preparation,2.9,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-12,Bakery,Dinner,preparation,0.9,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Terrace,Breakfast,plate,4.535,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Terrace,Breakfast,plate,6.185,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Terrace,Breakfast,buffet,1.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Terrace,Breakfast,buffet,0.4,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Terrace,Breakfast,buffet,0.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Terrace,Breakfast,buffet,0.3,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Terrace,Breakfast,plate,8.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Bakery,Breakfast,buffet,2.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Terrace,Lunch,plate,6.826,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Terrace,Breakfast,plate,10.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Terrace,Lunch,plate,6.9,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Terrace,Lunch,buffet,2.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Terrace,Lunch,buffet,1.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Terrace,Lunch,buffet,1.3,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Terrace,Lunch,buffet,1.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Terrace,Lunch,plate,11.555,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-14,Commissary,Breakfast,preparation,49.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-14,Commissary,Lunch,preparation,3.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-14,Commissary,Breakfast,preparation,0.7,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Terrace,Dinner,plate,5.71,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Terrace,Dinner,buffet,0.8,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Terrace,Dinner,preparation,2.3,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Terrace,Dinner,plate,7.485,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Terrace,Dinner,plate,8.655,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Terrace,Breakfast,plate,5.47,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Terrace,Breakfast,buffet,7.145,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-14,Terrace,Breakfast,buffet,6.8,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-15,Bakery,Breakfast,buffet,2.3,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-20,Garde Manger,Dinner,spoilage,13.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-15,Commissary,Breakfast,preparation,61.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-15,Commissary,Breakfast,preparation,0.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-15,Commissary,Lunch,preparation,6.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-15,Commissary,Lunch,preparation,3.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-20,Commissary,Lunch,preparation,5.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-20,Commissary,Breakfast,preparation,15.1,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-20,Commissary,Breakfast,preparation,96.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-16,Commissary,Breakfast,preparation,34.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-16,Commissary,Breakfast,preparation,1.7,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-16,Commissary,Lunch,preparation,2.4,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-16,Commissary,Lunch,preparation,1.4,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-16,Commissary,Lunch,preparation,66.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-22,Bakery,Dinner,preparation,0.8,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-16,Bakery,Dinner,preparation,0.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-17,Bakery,Breakfast,buffet,2.1,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-05-17,Event,Breakfast,buffet,1.1,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-17,Commissary,Breakfast,preparation,3.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-17,Commissary,Breakfast,preparation,49.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-17,Commissary,Lunch,preparation,7.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-17,Commissary,Lunch,preparation,44.3,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-05-17,Event,Dinner,preparation,6.52,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-18,Garde Manger,Breakfast,preparation,1.5,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-18,Garde Manger,Breakfast,preparation,3.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-18,Garde Manger,Breakfast,preparation,0.01,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-18,Garde Manger,Breakfast,preparation,1.9,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-18,Garde Manger,Lunch,preparation,14.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-18,Garde Manger,Breakfast,preparation,2.5,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-18,Garde Manger,Dinner,preparation,5.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-18,Garde Manger,Dinner,preparation,1.2,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-18,Garde Manger,Lunch,preparation,2.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-18,Garde Manger,Breakfast,preparation,1.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-18,Garde Manger,Lunch,spoilage,6.8,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-18,Garde Manger,Lunch,preparation,4.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-18,Bakery,Breakfast,buffet,3.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-18,Bakery,Breakfast,preparation,2.3,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-18,Shunpachi,Dinner,preparation,1.01,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-18,Shunpachi,Dinner,preparation,2.4,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-18,Commissary,Breakfast,preparation,69.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-18,Commissary,Breakfast,preparation,4.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-18,Commissary,Lunch,preparation,0.9,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-18,Shunpachi,Dinner,spoilage,1.2,,1.0,C
+APAC Hyatt Beijing BEIGH,2022-05-17,Balcony,Breakfast,preparation,0.8,,1.0,C
+APAC Hyatt Beijing BEIGH,2022-05-17,Balcony,Breakfast,preparation,29.3,,1.0,C
+APAC Hyatt Beijing BEIGH,2022-05-17,Balcony,Breakfast,preparation,0.4,,1.0,C
+APAC Hyatt Beijing BEIGH,2022-05-17,Balcony,Lunch,preparation,1.2,,1.0,C
+APAC Hyatt Beijing BEIGH,2022-05-17,Balcony,Lunch,preparation,0.5,,1.0,C
+APAC Hyatt Beijing BEIGH,2022-05-17,Balcony,Lunch,preparation,0.2,,1.0,C
+APAC Hyatt Beijing BEIGH,2022-05-17,Balcony,Dinner,preparation,1.7,,1.0,C
+APAC Hyatt Beijing BEIGH,2022-05-17,Balcony,Dinner,preparation,1.0,,1.0,C
+APAC Hyatt Beijing BEIGH,2022-05-18,Balcony,Breakfast,preparation,1.0,,1.0,C
+APAC Hyatt Beijing BEIGH,2022-05-18,Balcony,Breakfast,preparation,25.9,,1.0,C
+APAC Hyatt Beijing BEIGH,2022-05-18,Balcony,Breakfast,buffet,1.4,,1.0,C
+APAC Hyatt Beijing BEIGH,2022-05-17,Balcony,Breakfast,plate,3.0,,1.0,C
+APAC Hyatt Beijing BEIGH,2022-05-17,Balcony,Lunch,plate,6.0,,1.0,C
+APAC Hyatt Beijing BEIGH,2022-05-17,Balcony,Dinner,plate,5.8,,1.0,C
+APAC Hyatt Beijing BEIGH,2022-05-18,Balcony,Breakfast,plate,30.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-19,Garde Manger,Breakfast,preparation,1.5,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-19,Garde Manger,Breakfast,preparation,1.3,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-19,Garde Manger,Breakfast,preparation,2.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-19,Garde Manger,Breakfast,preparation,3.5,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-19,Garde Manger,Breakfast,preparation,8.7,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-19,Garde Manger,Lunch,preparation,4.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-19,Garde Manger,Lunch,preparation,6.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-19,Garde Manger,Breakfast,preparation,0.2,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-19,Garde Manger,Lunch,preparation,3.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-19,Garde Manger,Lunch,preparation,3.3,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-19,Garde Manger,Lunch,preparation,2.5,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-19,Garde Manger,Lunch,preparation,5.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-19,Garde Manger,Lunch,preparation,2.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-19,Garde Manger,Lunch,preparation,1.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-19,Garde Manger,Lunch,preparation,0.6,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-19,Commissary,Breakfast,preparation,86.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-19,Commissary,Breakfast,preparation,6.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-19,Commissary,Lunch,preparation,1.5,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-19,Garde Manger,Dinner,preparation,0.1,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-05-20,Event,Lunch,buffet,3.54,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-20,Garde Manger,Breakfast,preparation,1.2,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-20,Garde Manger,Breakfast,preparation,4.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-20,Garde Manger,Breakfast,preparation,1.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-20,Garde Manger,Breakfast,preparation,0.6,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-20,Garde Manger,Breakfast,preparation,2.5,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-20,Garde Manger,Breakfast,preparation,13.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-20,Garde Manger,Breakfast,preparation,14.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-20,Garde Manger,Breakfast,preparation,0.5,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-20,Garde Manger,Lunch,preparation,2.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-20,Garde Manger,Lunch,preparation,0.7,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-20,Bakery,Breakfast,buffet,2.8,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-20,Garde Manger,Lunch,preparation,2.5,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-20,Garde Manger,Breakfast,preparation,1.5,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-20,Garde Manger,Breakfast,preparation,0.8,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-21,Bakery,Breakfast,buffet,2.1,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-21,Commissary,Breakfast,preparation,100.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-21,Commissary,Breakfast,preparation,10.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-21,Commissary,Breakfast,preparation,5.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-21,Commissary,Lunch,preparation,6.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-21,Commissary,Lunch,preparation,4.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-23,Commissary,Lunch,preparation,4.7,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-23,Commissary,Lunch,preparation,3.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-23,Commissary,Breakfast,preparation,51.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-22,Bakery,Breakfast,buffet,2.1,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-22,Commissary,Breakfast,preparation,31.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-22,Commissary,Breakfast,preparation,100.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-22,Commissary,Breakfast,preparation,5.85,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-22,Commissary,Lunch,preparation,2.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-22,Commissary,Lunch,preparation,1.5,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-22,Shunpachi,Dinner,preparation,0.2,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-22,Shunpachi,Dinner,preparation,1.2,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-22,Shunpachi,Dinner,preparation,2.6,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-22,Shunpachi,Dinner,preparation,1.8,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-22,Shunpachi,Dinner,preparation,0.7,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-22,Bakery,Dinner,preparation,5.4,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-05-22,Event,Dinner,preparation,9.38,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-23,Bakery,Breakfast,buffet,2.3,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-05-03,Staff Canteen,Dinner,plate,16.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-23,Commissary,Breakfast,preparation,3.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-23,Commissary,Lunch,preparation,49.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-23,Commissary,Lunch,preparation,1.6,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-05-23,Banquet,Lunch,preparation,5.0,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-05-23,Banquet,Lunch,preparation,2.0,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-05-23,Banquet,Lunch,preparation,3.5,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-05-23,Banquet,Lunch,preparation,6.0,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-05-23,Banquet,Lunch,preparation,1.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-24,Commissary,Breakfast,preparation,100.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-24,Commissary,Breakfast,preparation,16.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-24,Commissary,Breakfast,preparation,4.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-24,Commissary,Lunch,preparation,8.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-24,Commissary,Lunch,preparation,11.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-24,Sowol Ro,Dinner,plate,2.4,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-25,Bakery,Breakfast,buffet,3.1,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-25,Commissary,Breakfast,preparation,100.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-25,Commissary,Breakfast,preparation,9.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-25,Commissary,Breakfast,preparation,6.2,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-25,Commissary,Lunch,preparation,5.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-25,Commissary,Lunch,preparation,9.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-26,Bakery,Breakfast,buffet,2.1,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-26,Commissary,Breakfast,preparation,3.2,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-26,Commissary,Breakfast,preparation,64.4,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-26,Commissary,Lunch,preparation,12.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-26,Commissary,Lunch,preparation,4.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-26,Commissary,Lunch,preparation,35.25,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-26,Commissary,Lunch,preparation,30.4,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-05-26,Banquet,Lunch,,1.2,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-05-26,Banquet,Lunch,,6.7,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-05-26,Banquet,Lunch,,2.0,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-05-26,Banquet,Lunch,,1.0,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-05-26,Banquet,Lunch,,10.0,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-05-26,Banquet,Lunch,,1.5,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-05-26,Banquet,Lunch,plate,12.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-27,Bakery,Breakfast,buffet,2.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-27,Commissary,Breakfast,preparation,4.6,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-27,Commissary,Breakfast,preparation,50.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-27,Commissary,Lunch,preparation,1.2,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-27,Commissary,Lunch,preparation,7.6,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-27,Commissary,Lunch,preparation,44.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-27,Commissary,Lunch,preparation,5.7,,1.0,C
+APAC Hyatt Solo SOCAL,2022-05-27,Banquet,Dinner,preparation,2.3,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-28,Bakery,Breakfast,buffet,2.3,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-28,Bakery,Breakfast,buffet,2.1,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-28,Commissary,Breakfast,preparation,100.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-28,Commissary,Breakfast,preparation,25.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-28,Commissary,Breakfast,preparation,2.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-28,Commissary,Lunch,preparation,17.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-28,Commissary,Lunch,preparation,13.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-05-27,Event,Lunch,preparation,9.85,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-28,Bakery,Dinner,preparation,6.1,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-29,Shunpachi,Lunch,preparation,0.16,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-29,Sowol Ro,Lunch,preparation,1.1,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-29,Shunpachi,Lunch,preparation,0.2,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-17,Garde Manger,Lunch,preparation,5.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-17,Garde Manger,Breakfast,preparation,1.2,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-17,Garde Manger,Breakfast,preparation,1.5,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-17,Garde Manger,Dinner,preparation,4.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-17,Garde Manger,Lunch,preparation,14.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-18,Garde Manger,Breakfast,preparation,0.5,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-17,Garde Manger,Breakfast,preparation,1.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-29,Sowol Ro,Lunch,plate,3.775,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-29,Sowol Ro,Lunch,plate,1.375,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-29,Bakery,Breakfast,buffet,2.2,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-29,Commissary,Breakfast,preparation,100.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-29,Commissary,Breakfast,preparation,58.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-29,Commissary,Breakfast,preparation,8.7,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-29,Commissary,Lunch,preparation,4.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-29,Commissary,Lunch,preparation,3.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-29,Sowol Ro,Lunch,spoilage,1.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-29,Sowol Ro,Dinner,plate,1.43,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-30,Cang Yue,Breakfast,buffet,2.3,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-30,Cang Yue,Breakfast,buffet,2.1,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-30,Cang Yue,Breakfast,buffet,3.5,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-30,Cang Yue,Dinner,plate,8.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-05-30,Cang Yue,Lunch,plate,2.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-30,Garde Manger,Lunch,preparation,1.3,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-30,Garde Manger,Lunch,preparation,6.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-30,Garde Manger,Lunch,preparation,1.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-30,Garde Manger,Lunch,preparation,2.5,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-30,Garde Manger,Lunch,preparation,5.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-27,Banquet,Dinner,preparation,10.2,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-27,Banquet,Dinner,plate,9.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-28,Banquet,Dinner,preparation,37.4,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-28,Banquet,Dinner,plate,72.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-29,Banquet,Dinner,preparation,61.2,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-29,Banquet,Dinner,plate,100.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-30,Bakery,Breakfast,buffet,2.1,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-30,Commissary,Lunch,preparation,2.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-30,Commissary,Lunch,preparation,5.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-30,Commissary,Breakfast,spoilage,25.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-30,Commissary,Breakfast,preparation,25.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-30,Commissary,Breakfast,preparation,22.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-30,Commissary,Dinner,preparation,20.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-30,Commissary,Dinner,preparation,10.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-30,Commissary,Lunch,preparation,3.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-30,Garde Manger,Lunch,preparation,1.9,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-05-30,Banquet,Lunch,preparation,2.0,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-05-30,Banquet,Lunch,preparation,5.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-05-31,Bakery,Breakfast,buffet,2.1,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-31,Garde Manger,Lunch,preparation,2.5,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-31,Garde Manger,Lunch,preparation,4.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-31,Garde Manger,Dinner,preparation,0.1,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-31,Garde Manger,Lunch,preparation,14.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-31,Garde Manger,Breakfast,preparation,12.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-05-31,Garde Manger,Breakfast,preparation,4.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-31,Commissary,Breakfast,preparation,80.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-31,Commissary,Lunch,preparation,1.2,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-31,Commissary,Lunch,preparation,3.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-31,Commissary,Lunch,preparation,3.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-05-31,Commissary,Lunch,preparation,10.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-05-29,Event,Dinner,preparation,10.23,,1.0,C
+APAC Hyatt Solo SOCAL,2022-05-31,Banquet,Lunch,preparation,0.3,,1.0,C
+APAC Hyatt Solo SOCAL,2022-05-31,Banquet,Lunch,preparation,0.4,,1.0,C
+APAC Hyatt Solo SOCAL,2022-05-31,Banquet,Lunch,buffet,0.3,,1.0,C
+APAC Hyatt Solo SOCAL,2022-05-31,Banquet,Lunch,buffet,0.2,,1.0,C
+APAC Hyatt Solo SOCAL,2022-05-31,Banquet,Lunch,plate,0.4,,1.0,C
+APAC Hyatt Solo SOCAL,2022-05-31,Banquet,Dinner,preparation,0.3,,1.0,C
+APAC Hyatt Solo SOCAL,2022-05-31,Banquet,Dinner,preparation,0.4,,1.0,C
+APAC Hyatt Solo SOCAL,2022-05-31,Banquet,Dinner,plate,0.4,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-05-31,Banquet,Lunch,preparation,3.0,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-05-31,Banquet,Lunch,plate,2.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-01,Commissary,Breakfast,preparation,60.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-01,Commissary,Breakfast,preparation,5.4,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-01,Commissary,Lunch,preparation,6.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-01,Commissary,Lunch,preparation,3.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-02,Bakery,Breakfast,buffet,3.4,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-02,Commissary,Breakfast,preparation,69.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-02,Commissary,Breakfast,preparation,11.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-02,Commissary,Lunch,preparation,4.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-02,Commissary,Lunch,preparation,3.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-03,Garde Manger,Breakfast,preparation,5.3,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-03,Garde Manger,Dinner,preparation,5.2,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-03,Garde Manger,Breakfast,preparation,4.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-03,Garde Manger,Breakfast,preparation,2.0,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-06-02,Banquet,Breakfast,preparation,3.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-03,Garde Manger,Lunch,preparation,3.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-03,Garde Manger,Lunch,preparation,4.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-03,Garde Manger,Lunch,spoilage,2.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-03,Garde Manger,Dinner,preparation,3.8,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-03,Garde Manger,Lunch,preparation,20.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-03,Garde Manger,Dinner,preparation,0.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-03,Bakery,Breakfast,buffet,2.4,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-03,Commissary,Lunch,preparation,3.6,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-03,Commissary,Lunch,preparation,9.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-03,Commissary,Lunch,preparation,23.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-03,Commissary,Lunch,preparation,90.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-03,Commissary,Lunch,preparation,70.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-03,Bakery,Dinner,preparation,2.1,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-04,Commissary,Breakfast,preparation,65.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-04,Commissary,Lunch,preparation,4.7,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-04,Commissary,Lunch,preparation,3.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-04,Commissary,Lunch,preparation,79.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-04,Commissary,Lunch,preparation,3.6,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-04,Bakery,Breakfast,plate,6.9,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-04,Bakery,Breakfast,plate,7.43,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-05,Bakery,Breakfast,plate,9.25,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-05,Bakery,Breakfast,plate,8.95,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-05,Bakery,Breakfast,plate,8.63,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-05,Bakery,Breakfast,plate,7.52,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-05,Bakery,Breakfast,buffet,2.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-05,Commissary,Breakfast,preparation,44.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-05,Commissary,Breakfast,preparation,12.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-05,Commissary,Lunch,preparation,3.9,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-05,Commissary,Lunch,preparation,70.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-05,Commissary,Lunch,preparation,16.5,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-06,Cang Yue,Lunch,preparation,0.5,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-06,Cang Yue,Lunch,preparation,1.5,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-06,Cang Yue,Lunch,preparation,5.01,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-06,Cang Yue,Lunch,preparation,0.7,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-06,Cang Yue,Lunch,preparation,0.8,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-06,Cang Yue,Lunch,preparation,2.15,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-06,Cang Yue,Lunch,preparation,1.2,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-06,Cang Yue,Lunch,preparation,0.49,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-06,Cang Yue,Lunch,preparation,1.1,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-06,Cang Yue,Lunch,preparation,1.6,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-06,Cang Yue,Lunch,preparation,0.3,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-06,Cang Yue,Lunch,preparation,0.9,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-06,Cang Yue,Lunch,preparation,0.4,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-06,Cang Yue,Dinner,preparation,0.5,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-06,Cang Yue,Lunch,preparation,1.9,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-06,Commissary,Lunch,preparation,3.9,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-06,Commissary,Lunch,preparation,4.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-06,Commissary,Lunch,preparation,30.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-06,Commissary,Lunch,preparation,65.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-06,Cang Yue,Dinner,preparation,3.3,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-06,Event,Dinner,preparation,3.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-07,Commissary,Lunch,preparation,2.7,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-07,Commissary,Lunch,preparation,3.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-07,Commissary,Breakfast,preparation,29.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-07,Commissary,Lunch,preparation,63.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-07,Commissary,Lunch,preparation,28.7,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-08,Bakery,Lunch,preparation,3.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-08,Commissary,Breakfast,preparation,25.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-08,Commissary,Breakfast,preparation,6.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-08,Commissary,Lunch,preparation,1.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-08,Commissary,Lunch,preparation,50.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-08,Commissary,Dinner,preparation,3.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-08,Commissary,Dinner,preparation,5.7,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-08,Market Cafe,Dinner,plate,30.0,,1.0,C
+APAC Hyatt Solo SOCAL,2022-06-08,Banquet,Lunch,buffet,0.8,,1.0,C
+APAC Hyatt Solo SOCAL,2022-06-08,Banquet,Lunch,buffet,1.6,,1.0,C
+APAC Hyatt Solo SOCAL,2022-06-08,Banquet,Lunch,buffet,0.7,,1.0,C
+APAC Hyatt Solo SOCAL,2022-06-08,Banquet,Lunch,preparation,0.4,,1.0,C
+APAC Hyatt Solo SOCAL,2022-06-08,Banquet,Lunch,preparation,1.8,,1.0,C
+APAC Hyatt Solo SOCAL,2022-06-08,Banquet,Lunch,preparation,0.3,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-06-08,Banquet,Lunch,preparation,4.0,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-06-08,Banquet,Lunch,preparation,0.5,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-06-08,Banquet,Lunch,preparation,1.0,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-06-08,Banquet,Lunch,preparation,6.0,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-06-08,Banquet,Lunch,plate,4.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-09,Bakery,Breakfast,buffet,2.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-09,Commissary,Breakfast,preparation,48.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-09,Commissary,Breakfast,preparation,6.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-09,Commissary,Lunch,preparation,2.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-09,Commissary,Lunch,preparation,4.4,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-10,Bakery,Breakfast,buffet,1.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-10,Bakery,Breakfast,buffet,2.3,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-06-09,Banquet,Breakfast,preparation,2.0,,1.0,C
+APAC Hyatt Taipei TAIGH,2022-06-09,Banquet,Breakfast,preparation,10.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-10,Bakery,Breakfast,buffet,2.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-10,Bakery,Lunch,buffet,3.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-10,Bakery,Lunch,preparation,3.2,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-10,Commissary,Lunch,preparation,3.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-10,Commissary,Lunch,preparation,4.9,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-10,Commissary,Lunch,preparation,25.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-10,Commissary,Breakfast,preparation,25.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-10,Commissary,Lunch,preparation,10.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-10,Commissary,Breakfast,preparation,24.3,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-10,Event,Dinner,preparation,5.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-10,Bakery,Dinner,buffet,6.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-10,Shunpachi,Dinner,preparation,2.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-10,Shunpachi,Dinner,preparation,1.2,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-10,Shunpachi,Dinner,preparation,3.4,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-10,Shunpachi,Dinner,plate,7.3,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-05-25,The Dining Room,Lunch,preparation,4.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-10,Bakery,Dinner,preparation,1.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-11,Sowol Ro,Lunch,preparation,1.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-11,Shunpachi,Lunch,preparation,0.3,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-11,Shunpachi,Lunch,preparation,0.1,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-11,Shunpachi,Lunch,preparation,4.139,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-11,Bakery,Breakfast,buffet,2.6,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-11,Shunpachi,Lunch,preparation,0.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-11,Sowol Ro,Lunch,plate,2.805,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-11,Bakery,Lunch,buffet,7.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-11,Sowol Ro,Lunch,plate,1.7,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-11,Shunpachi,Lunch,preparation,1.234,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-11,Shunpachi,Lunch,plate,7.5,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-11,Shunpachi,Lunch,preparation,1.59,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-11,Bakery,Lunch,preparation,3.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-11,Bakery,Lunch,buffet,5.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-11,Bakery,Breakfast,buffet,2.3,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-11,Shunpachi,Dinner,preparation,1.89,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-11,Commissary,Lunch,preparation,6.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-11,Commissary,Lunch,preparation,9.7,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-11,Commissary,Breakfast,preparation,5.4,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-11,Commissary,Lunch,preparation,25.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-11,Commissary,Breakfast,preparation,25.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-11,Commissary,Breakfast,preparation,10.3,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-11,Shunpachi,Dinner,preparation,0.3,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-11,Shunpachi,Dinner,preparation,0.4,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-11,Shunpachi,Dinner,preparation,0.6,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-11,Event,Breakfast,preparation,1.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-11,Shunpachi,Dinner,preparation,8.55,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-11,Shunpachi,Dinner,plate,10.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-11,Sowol Ro,Dinner,plate,2.3,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-12,Bakery,Breakfast,buffet,0.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-12,Bakery,Lunch,buffet,5.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-12,Bakery,Breakfast,buffet,3.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-12,Bakery,Breakfast,buffet,0.7,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-12,Bakery,Lunch,preparation,2.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-12,Bakery,Breakfast,buffet,2.2,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-10,Event,Dinner,preparation,22.9,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-12,Commissary,Breakfast,preparation,100.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-12,Commissary,Breakfast,preparation,9.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-12,Commissary,Lunch,preparation,4.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-12,Commissary,Lunch,preparation,6.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-12,Commissary,Breakfast,preparation,44.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-13,Bakery,Breakfast,buffet,2.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-13,Bakery,Breakfast,buffet,0.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-13,Bakery,Lunch,preparation,2.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-13,Bakery,Lunch,buffet,6.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-13,Event,Breakfast,preparation,1.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-13,Event,Lunch,preparation,5.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-13,Event,Breakfast,preparation,15.5,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-13,Event,Breakfast,preparation,0.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-13,Commissary,Breakfast,preparation,100.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-13,Commissary,Breakfast,preparation,6.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-13,Commissary,Breakfast,preparation,8.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-13,Commissary,Lunch,preparation,5.4,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-13,Commissary,Lunch,preparation,4.7,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-13,The Dining Room,Breakfast,preparation,10.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-13,The Dining Room,Breakfast,buffet,3.4,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-13,The Dining Room,Lunch,buffet,2.6,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-13,The Dining Room,Lunch,buffet,2.5,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-13,The Dining Room,Lunch,preparation,1.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-13,Bakery,Dinner,buffet,2.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-14,Bakery,Breakfast,plate,0.6,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-14,Cang Yue,Breakfast,preparation,0.2,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-14,Bakery,Breakfast,buffet,1.6,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-14,The Dining Room,Breakfast,buffet,1.5,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-14,The Dining Room,Breakfast,buffet,5.6,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-14,The Dining Room,Breakfast,buffet,6.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-14,The Dining Room,Breakfast,buffet,1.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-14,Bakery,Lunch,buffet,5.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-14,Commissary,Breakfast,preparation,85.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-14,Commissary,Breakfast,preparation,6.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-14,Commissary,Lunch,preparation,6.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-14,Commissary,Lunch,preparation,4.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-15,Bakery,Lunch,buffet,6.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-15,Commissary,Breakfast,preparation,100.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-15,Commissary,Breakfast,preparation,6.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-15,Commissary,Breakfast,preparation,5.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-15,Commissary,Lunch,preparation,10.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-15,Commissary,Lunch,preparation,5.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-15,Bakery,Breakfast,buffet,0.4,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-15,Bakery,Lunch,preparation,1.3,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-15,Event,Breakfast,preparation,1.5,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-16,Cang Yue,Breakfast,preparation,0.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-16,Bakery,Breakfast,buffet,2.3,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-16,Bakery,Breakfast,buffet,1.8,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-16,Bakery,Breakfast,buffet,8.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-16,Bakery,Breakfast,plate,1.1,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-16,The Dining Room,Breakfast,plate,21.3,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-16,The Dining Room,Lunch,plate,11.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-16,Commissary,Breakfast,preparation,62.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-16,Commissary,Breakfast,preparation,100.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-16,Commissary,Breakfast,preparation,6.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-16,Commissary,Lunch,preparation,6.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-16,Commissary,Lunch,preparation,4.0,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-16,Bakery,Dinner,preparation,0.9,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-17,Garde Manger,Breakfast,preparation,15.4,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-17,Bakery,Breakfast,buffet,2.1,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-17,Garde Manger,Lunch,preparation,0.5,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-17,Garde Manger,Lunch,preparation,3.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-17,Garde Manger,Lunch,preparation,1.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-17,Bakery,Breakfast,buffet,0.7,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-17,Bakery,Lunch,preparation,3.5,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-19,Butchery,Dinner,preparation,0.01,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-17,Event,Breakfast,preparation,8.7,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-17,Event,Breakfast,preparation,0.3,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-17,Garde Manger,Lunch,preparation,4.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-17,Event,Breakfast,preparation,11.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-17,Event,Dinner,preparation,5.7,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-17,Event,Dinner,preparation,1.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-17,Commissary,Breakfast,preparation,65.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-17,Commissary,Breakfast,preparation,100.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-17,Commissary,Breakfast,preparation,25.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-17,Commissary,Breakfast,preparation,3.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-17,Commissary,Lunch,preparation,3.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-17,Commissary,Lunch,preparation,4.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-17,The Dining Room,Dinner,plate,19.1,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-17,Bakery,Dinner,buffet,3.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-17,Market Cafe,Dinner,buffet,7.5,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-17,Market Cafe,Dinner,plate,15.7,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-17,Bakery,Dinner,preparation,0.7,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-18,Garde Manger,Breakfast,preparation,5.6,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-18,Garde Manger,Breakfast,preparation,5.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-18,Garde Manger,Breakfast,preparation,3.4,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-18,Garde Manger,Lunch,preparation,2.5,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-18,Garde Manger,Lunch,preparation,5.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-18,Garde Manger,Dinner,preparation,0.1,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-18,Commissary,Breakfast,preparation,100.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-18,Commissary,Breakfast,preparation,50.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-18,Commissary,Breakfast,preparation,7.3,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-18,Commissary,Lunch,preparation,4.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-18,Commissary,Lunch,preparation,3.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-18,Event,Lunch,preparation,5.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-19,The Dining Room,Breakfast,spoilage,6.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-19,The Dining Room,Breakfast,buffet,1.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-19,The Dining Room,Breakfast,buffet,2.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-19,The Dining Room,Breakfast,spoilage,2.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-19,Commissary,Breakfast,preparation,100.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-19,Commissary,Breakfast,preparation,73.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-19,Commissary,Breakfast,preparation,9.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-19,Commissary,Lunch,preparation,6.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-19,Commissary,Lunch,preparation,4.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-19,Commissary,Lunch,plate,4.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-19,The Dining Room,Lunch,buffet,4.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-19,The Dining Room,Lunch,buffet,3.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-19,The Dining Room,Lunch,buffet,1.5,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-19,The Dining Room,Lunch,buffet,0.5,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-19,Garde Manger,Breakfast,preparation,2.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-20,Garde Manger,Breakfast,preparation,3.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-20,Garde Manger,Breakfast,preparation,1.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-20,Garde Manger,Breakfast,preparation,2.5,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-20,Garde Manger,Breakfast,preparation,0.7,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-20,Garde Manger,Breakfast,preparation,10.8,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Breakfast,buffet,2.4,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Breakfast,preparation,0.27,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Breakfast,buffet,3.9,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Shunpachi,Lunch,preparation,0.498,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Shunpachi,Lunch,preparation,4.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Breakfast,buffet,0.9,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Breakfast,buffet,2.07,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Breakfast,buffet,0.12,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Breakfast,buffet,0.18,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Breakfast,buffet,2.17,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Breakfast,buffet,4.13,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Breakfast,buffet,2.83,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Breakfast,buffet,2.56,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Breakfast,buffet,1.31,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Breakfast,buffet,0.99,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-20,Garde Manger,Breakfast,preparation,0.5,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Breakfast,buffet,0.6,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Breakfast,buffet,1.1,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Breakfast,buffet,3.3,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Breakfast,buffet,3.01,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-20,Butchery,Lunch,preparation,4.7,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-13,The Dining Room,Dinner,spoilage,3.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-13,The Dining Room,Dinner,spoilage,2.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-14,The Dining Room,Lunch,spoilage,2.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-14,The Dining Room,Lunch,spoilage,5.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-14,The Dining Room,Dinner,spoilage,2.5,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-14,The Dining Room,Dinner,spoilage,1.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-14,The Dining Room,Dinner,spoilage,4.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Breakfast,buffet,1.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-15,The Dining Room,Breakfast,preparation,8.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-15,The Dining Room,Breakfast,spoilage,2.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-15,The Dining Room,Breakfast,spoilage,5.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-15,The Dining Room,Lunch,spoilage,2.5,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-15,The Dining Room,Lunch,spoilage,4.8,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-15,The Dining Room,Lunch,spoilage,3.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-15,The Dining Room,Dinner,spoilage,3.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-15,The Dining Room,Dinner,spoilage,4.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-15,The Dining Room,Dinner,spoilage,1.5,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-16,The Dining Room,Dinner,spoilage,2.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-16,The Dining Room,Dinner,spoilage,3.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-16,The Dining Room,Dinner,spoilage,1.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Shunpachi,Lunch,preparation,2.5,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-18,The Dining Room,Dinner,spoilage,1.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Shunpachi,Lunch,preparation,3.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-18,The Dining Room,Dinner,spoilage,4.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-18,The Dining Room,Dinner,spoilage,2.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-19,The Dining Room,Dinner,spoilage,2.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-19,The Dining Room,Dinner,spoilage,1.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-19,The Dining Room,Dinner,spoilage,4.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Breakfast,plate,24.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Shunpachi,Lunch,preparation,0.82,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Shunpachi,Lunch,preparation,1.41,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Shunpachi,Lunch,spoilage,0.54,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-20,Garde Manger,Lunch,preparation,10.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Shunpachi,Lunch,preparation,1.5,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Shunpachi,Lunch,preparation,5.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-20,Garde Manger,Lunch,preparation,3.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Shunpachi,Lunch,preparation,1.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Shunpachi,Lunch,preparation,6.32,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-20,Garde Manger,Lunch,preparation,1.5,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-20,Garde Manger,Lunch,preparation,1.8,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Shunpachi,Lunch,preparation,1.3,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Breakfast,preparation,14.6,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Shunpachi,Dinner,preparation,0.12,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-20,Garde Manger,Lunch,preparation,1.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-20,Garde Manger,Dinner,preparation,0.1,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Lunch,preparation,1.6,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-20,Butchery,Dinner,preparation,15.25,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-20,Butchery,Lunch,preparation,0.0,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-20,Butchery,Lunch,preparation,6.21,,1.0,C
+APAC Hyatt Jeju CJUGH,2022-06-20,Butchery,Dinner,preparation,5.64,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-20,Commissary,Breakfast,preparation,100.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-20,Commissary,Breakfast,preparation,16.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-20,Commissary,Breakfast,preparation,6.8,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-20,Commissary,Lunch,preparation,5.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-06-20,Commissary,Lunch,preparation,4.2,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-20,The Dining Room,Lunch,buffet,1.5,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-20,The Dining Room,Lunch,buffet,2.0,,1.0,C
+APAC Hyatt Bangkok BANGH,2022-06-20,The Dining Room,Lunch,buffet,1.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Lunch,preparation,0.7,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Lunch,plate,0.99,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Shunpachi,Lunch,plate,7.5,,1.0,C
+APAC Hyatt Seoul SELRS,2022-06-20,Sowol Ro,Breakfast,preparation,2.5,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Shunpachi,Dinner,preparation,0.54,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Dinner,preparation,1.4,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Shunpachi,Dinner,preparation,1.5,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Shunpachi,Dinner,preparation,1.3,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Shunpachi,Dinner,preparation,1.288,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Shunpachi,Dinner,preparation,1.0,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Shunpachi,Dinner,preparation,0.4,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Shunpachi,Dinner,spoilage,3.6,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Market Cafe,Dinner,plate,9.8,,1.0,C
+APAC Hyatt Wangjing NAYRW,2022-06-20,Shunpachi,Dinner,plate,8.0,,1.0,C
+APAC Hyatt Guangzhou GUAGH,2022-04-11,Banquet,Dinner,,,0.0,0.25,W
+APAC Hyatt Guangzhou GUAGH,2022-04-11,Banquet,Lunch,,,0.0,0.25,W
+APAC Hyatt Guangzhou GUAGH,2022-04-03,Banquet,Dinner,,,0.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-04-19,Terrace,Dinner,,,106.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-04-14,The Dining Room,Dinner,,,7.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-04-09,The Dining Room,Dinner,,,65.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-04-08,The Dining Room,Dinner,,,69.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-04-03,Sowol Ro,Dinner,,,122.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-04-01,Terrace,Dinner,,,153.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-04-01,Terrace,Lunch,,,68.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-04-01,Terrace,Breakfast,,,99.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-04-02,Terrace,Dinner,,,285.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-04-02,Terrace,Lunch,,,193.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-04-02,Terrace,Breakfast,,,287.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-04-03,Terrace,Dinner,,,141.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-04-05,The Dining Room,Dinner,,,0.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-04-07,The Dining Room,Dinner,,,0.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-04-05,The Dining Room,Lunch,,,45.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-04-05,Event,Dinner,,,0.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-04-05,Event,Lunch,,,45.0,0.25,W
+APAC Hyatt Wangjing NAYRW,2022-04-12,Cang Yue,Dinner,,,16.0,0.25,W
+APAC Hyatt Wangjing NAYRW,2022-04-12,Cang Yue,Lunch,,,28.0,0.25,W
+APAC Hyatt Guangzhou GUAGH,2022-04-11,Banquet,Breakfast,,,0.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-04-07,Event,Breakfast,,,258.0,0.25,W
+APAC Hyatt Guangzhou GUAGH,2022-04-03,Banquet,Lunch,,,0.0,0.25,W
+APAC Hyatt Guangzhou GUAGH,2022-04-03,Banquet,Breakfast,,,0.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-05-05,The Dining Room,Lunch,,,48.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-05-04,Sowol Ro,Dinner,,,155.0,0.25,W
+APAC Hyatt Guangzhou GUAGH,2022-05-04,Market Cafe,Dinner,,,171.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-26,Banquet,Dinner,,,272.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-12,Banquet,Dinner,,,184.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-08,Banquet,Dinner,,,198.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-07,Banquet,Dinner,,,156.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-06,Banquet,Dinner,,,138.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-05,Banquet,Dinner,,,216.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-30,Epice,Lunch,,,13.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-29,Epice,Dinner,,,38.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-27,Epice,Lunch,,,13.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-25,Epice,Dinner,,,13.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-25,Epice,Lunch,,,2.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-25,Epice,Breakfast,,,131.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-23,Epice,Lunch,,,18.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-22,Epice,Lunch,,,25.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-05-12,Epice,Dinner,,,71.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-05-08,Epice,Dinner,,,42.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-05-08,Epice,Lunch,,,40.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-04,Epice,Dinner,,,10.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-04,Epice,Breakfast,,,38.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-25,Agra,Lunch,,,35.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-20,Agra,Lunch,,,20.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-21,Agra,Lunch,,,50.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-22,Agra,Lunch,,,25.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-05-02,Event,Dinner,,,600.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-05-01,Sowol Ro,Dinner,,,103.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-04-30,Sowol Ro,Dinner,,,154.0,0.25,W
+APAC Hyatt Guangzhou GUAGH,2022-04-30,Banquet,Lunch,,,10.0,0.25,W
+APAC Hyatt Guangzhou GUAGH,2022-04-29,Market Cafe,Dinner,,,95.0,0.25,W
+APAC Hyatt Guangzhou GUAGH,2022-04-28,Market Cafe,Lunch,,,125.0,0.25,W
+APAC Hyatt Guangzhou GUAGH,2022-04-25,Banquet,Dinner,,,90.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-04-23,Sowol Ro,Dinner,,,150.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-05-06,Event,Lunch,,,300.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-17,Butchery,Breakfast,,,1414.0,0.25,W
+APAC Hyatt Taipei TAIGH,2022-05-16,Banquet,Breakfast,,,60.0,0.25,W
+APAC Hyatt Taipei TAIGH,2022-05-06,Banquet,Dinner,,,0.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-18,Agra,Lunch,,,8.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-19,Agra,Lunch,,,8.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-30,Agra,Breakfast,,,30.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-30,Agra,Lunch,,,30.0,0.25,W
+APAC Hyatt Wangjing NAYRW,2022-05-09,Market Cafe,Dinner,,,5.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-29,Agra,Lunch,,,23.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-05-11,Sowol Ro,Dinner,,,121.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-12,Epice,Lunch,,,8.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-13,Epice,Lunch,,,19.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-15,Epice,Lunch,,,12.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-16,Epice,Lunch,,,41.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-17,Epice,Lunch,,,11.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-18,Epice,Lunch,,,6.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-19,Epice,Lunch,,,8.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-19,Epice,Dinner,,,18.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-20,Epice,Lunch,,,19.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-20,Epice,Dinner,,,11.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-24,Epice,Lunch,,,25.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-26,Epice,Lunch,,,14.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-28,Epice,Lunch,,,21.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-29,Epice,Lunch,,,51.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-05-09,Epice,Lunch,,,31.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-05-10,Epice,Lunch,,,8.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-05-11,Epice,Lunch,,,3.0,0.25,W
+APAC Hyatt Beijing BEIGH,2022-05-01,Made For You,Breakfast,,,56.0,0.25,W
+APAC Hyatt Beijing BEIGH,2022-05-07,Made For You,Breakfast,,,42.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-23,Agra,Lunch,,,25.0,0.25,W
+APAC Hyatt Taipei TAIGH,2022-05-08,Banquet,Breakfast,,,0.0,0.25,W
+APAC Hyatt Taipei TAIGH,2022-05-10,Banquet,Breakfast,,,64.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-24,Agra,Lunch,,,42.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-27,Agra,Lunch,,,25.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-17,Agra,Lunch,,,10.0,0.25,W
+APAC Hyatt Taipei TAIGH,2022-05-05,Banquet,Breakfast,,,30.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-13,Butchery,Breakfast,,,1091.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-13,Butchery,Lunch,,,742.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-13,Butchery,Dinner,,,1933.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-28,Agra,Lunch,,,30.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-04-26,Agra,Lunch,,,40.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-14,Butchery,Breakfast,,,1956.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-05-13,Banquet,Dinner,,,86.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-07,Butchery,Breakfast,,,1619.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-07,Butchery,Lunch,,,1229.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-07,Butchery,Dinner,,,2547.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-08,Butchery,Breakfast,,,1377.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-08,Butchery,Lunch,,,1227.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-08,Butchery,Dinner,,,2368.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-09,Butchery,Breakfast,,,989.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-09,Butchery,Lunch,,,768.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-09,Butchery,Dinner,,,1729.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-10,Butchery,Breakfast,,,983.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-10,Butchery,Lunch,,,699.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-10,Butchery,Dinner,,,1217.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-11,Butchery,Breakfast,,,814.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-11,Butchery,Lunch,,,910.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-11,Butchery,Dinner,,,1417.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-12,Butchery,Breakfast,,,898.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-12,Butchery,Lunch,,,771.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-12,Butchery,Dinner,,,1463.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-14,Butchery,Lunch,,,1064.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-14,Butchery,Dinner,,,2191.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-15,Butchery,Breakfast,,,1258.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-15,Butchery,Lunch,,,966.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-15,Butchery,Dinner,,,2083.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-14,Garde Manger,Dinner,,,2191.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-15,Garde Manger,Lunch,,,966.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-16,Garde Manger,Lunch,,,878.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-04-30,Room Service,Dinner,,,363.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-06,Room Service,Breakfast,,,134.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-07,Room Service,Lunch,,,43.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-15,Room Service,Breakfast,,,81.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-15,Room Service,Dinner,,,355.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-08,Room Service,Dinner,,,334.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-18,Butchery,Breakfast,,,1036.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-04-26,The Dining Room,Dinner,,,4.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-04-27,The Dining Room,Dinner,,,2.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-05-10,The Dining Room,Dinner,,,4.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-05-19,Sowol Ro,Dinner,,,124.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-19,Room Service,Lunch,,,37.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-05-19,Event,Lunch,,,60.0,0.25,W
+APAC Hyatt Wangjing NAYRW,2022-05-21,Shunpachi,Lunch,,,3.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-05-22,Sowol Ro,Dinner,,,116.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-05-23,Event,Dinner,,,700.0,0.25,W
+APAC Hyatt Taipei TAIGH,2022-05-20,Banquet,Breakfast,,,28.0,0.25,W
+APAC Hyatt Taipei TAIGH,2022-05-22,Banquet,Lunch,,,17.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-05-23,Sowol Ro,Lunch,,,103.0,0.25,W
+APAC Hyatt Taipei TAIGH,2022-05-09,Yun Jin,Dinner,,,0.0,0.25,W
+APAC Hyatt Taipei TAIGH,2022-05-10,Yun Jin,Dinner,,,0.0,0.25,W
+APAC Hyatt Taipei TAIGH,2022-05-11,Yun Jin,Dinner,plate,,0.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-05-24,Terrace,Dinner,,,125.0,0.25,W
+APAC Hyatt Taipei TAIGH,2022-04-26,Cafe,Lunch,,,278.0,0.25,W
+APAC Hyatt Taipei TAIGH,2022-05-02,Banquet,Lunch,,,24.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-22,Garde Manger,Lunch,,,979.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-22,Garde Manger,Dinner,,,1932.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-25,Room Service,Lunch,,,29.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-24,Butchery,Lunch,,,669.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-24,Butchery,Dinner,,,1388.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-26,Garde Manger,Dinner,,,1651.0,0.25,W
+APAC Hyatt Wangjing NAYRW,2022-05-27,Market Cafe,Lunch,,,12.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-05-28,Event,Dinner,,,550.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-05-28,Event,Lunch,,,70.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-05-26,Event,Lunch,,,70.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-28,Room Service,Lunch,,,41.0,0.25,W
+APAC Hyatt Wangjing NAYRW,2022-05-27,Shunpachi,Dinner,,,8.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-05-29,Banquet,Lunch,,,130.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-05-29,Banquet,Dinner,,,60.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-05-28,Banquet,Lunch,,,55.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-05-28,Banquet,Dinner,,,45.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-05-29,Agra,Dinner,,,61.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-29,Room Service,Dinner,,,413.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-29,Butchery,Breakfast,,,1217.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-29,Butchery,Lunch,,,1054.0,0.25,W
+APAC Hyatt Guangzhou GUAGH,2022-05-29,Market Cafe,Dinner,,,231.0,0.25,W
+APAC Hyatt Guangzhou GUAGH,2022-05-30,Banquet,Lunch,,,17.0,0.25,W
+APAC Hyatt Guangzhou GUAGH,2022-05-30,Banquet,Dinner,,,240.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-05-30,Bakery,Lunch,,,107.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-05-30,Bakery,Dinner,,,110.0,0.25,W
+APAC Hyatt Wangjing NAYRW,2022-05-30,Market Cafe,Lunch,,,5.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-05-31,Agra,Lunch,,,40.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-05-31,Agra,Dinner,,,45.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-05-29,Epice,Dinner,,,28.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-30,Room Service,Dinner,,,350.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-05-31,Room Service,Breakfast,,,100.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-01,Room Service,Lunch,,,51.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-01,Room Service,Dinner,,,347.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-06-02,Sowol Ro,Lunch,,,100.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-05-31,Terrace,Lunch,,,90.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-05-31,Terrace,Dinner,,,212.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-05-25,Terrace,Lunch,,,71.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-05-25,Terrace,Dinner,,,154.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-02,Butchery,Lunch,,,819.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-02,Butchery,Dinner,,,1781.0,0.25,W
+APAC Hyatt Wangjing NAYRW,2022-06-02,Market Cafe,Dinner,,,7.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-06-04,Banquet,Lunch,,,50.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-04,Room Service,Breakfast,,,101.0,0.25,W
+APAC Hyatt Wangjing NAYRW,2022-06-01,Shunpachi,Dinner,,,4.0,0.25,W
+APAC Hyatt Wangjing NAYRW,2022-06-05,Shunpachi,Lunch,,,11.0,0.25,W
+APAC Hyatt Wangjing NAYRW,2022-06-05,Shunpachi,Dinner,,,6.0,0.25,W
+APAC Hyatt Wangjing NAYRW,2022-06-04,Shunpachi,Dinner,,,6.0,0.25,W
+APAC Hyatt Wangjing NAYRW,2022-06-03,Shunpachi,Dinner,,,8.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-06-05,Terrace,Dinner,,,226.0,0.25,W
+APAC Hyatt Taipei TAIGH,2022-06-05,Banquet,Breakfast,,,42.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-03,Butchery,Breakfast,,,1293.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-06-06,Terrace,Dinner,,,202.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-06,Room Service,Lunch,,,48.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-08,Room Service,Lunch,,,18.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-06-09,Banquet,Lunch,,,130.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-09,Room Service,Lunch,,,21.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-06,Butchery,Breakfast,,,1392.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-06-10,Agra,Breakfast,,,80.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-10,Room Service,Lunch,,,34.0,0.25,W
+APAC Hyatt Taipei TAIGH,2022-06-11,Banquet,Breakfast,,,0.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-06-11,Banquet,Dinner,,,308.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-13,Room Service,Breakfast,,,103.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-13,Room Service,Lunch,,,43.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-13,Room Service,Dinner,,,304.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-06-13,Agra,Lunch,,,30.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-06-13,Agra,Dinner,,,80.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-06-14,Event,Breakfast,,,300.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-06-14,Event,Dinner,,,223.0,0.25,W
+APAC Hyatt Seoul SELRS,2022-06-14,Sowol Ro,Lunch,,,95.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-12,Butchery,Breakfast,,,1081.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-12,Butchery,Lunch,,,1015.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-13,Butchery,Breakfast,,,1278.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-13,Butchery,Dinner,,,1512.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-10,Garde Manger,Dinner,,,1681.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-12,Garde Manger,Lunch,,,1015.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-12,Garde Manger,Dinner,,,1925.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-13,Garde Manger,Dinner,,,1652.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-14,Garde Manger,Breakfast,,,1126.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-14,Garde Manger,Lunch,,,716.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-14,Garde Manger,Dinner,,,1348.0,0.25,W
+APAC Hyatt Wangjing NAYRW,2022-06-14,Shunpachi,Dinner,,,38.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-14,Room Service,Lunch,,,54.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-14,Room Service,Dinner,,,234.0,0.25,W
+APAC Hyatt Wangjing NAYRW,2022-06-13,Market Cafe,Lunch,,,11.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-15,Butchery,Lunch,,,665.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-15,Butchery,Dinner,,,1459.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-06-16,Banquet,Lunch,,,150.0,0.25,W
+APAC Hyatt Solo SOCAL,2022-06-16,Banquet,Dinner,,,150.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-06-16,Event,Breakfast,,,20.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-06-16,Event,Lunch,,,20.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-06-16,Event,Dinner,,,65.0,0.25,W
+APAC Hyatt Wangjing NAYRW,2022-06-17,Shunpachi,Breakfast,,,0.0,0.25,W
+APAC Hyatt Wangjing NAYRW,2022-06-15,Shunpachi,Breakfast,,,0.0,0.25,W
+APAC Hyatt Guangzhou GUAGH,2022-06-18,Banquet,Dinner,,,70.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-18,Room Service,Breakfast,,,61.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-18,Room Service,Lunch,,,36.0,0.25,W
+APAC Hyatt Taipei TAIGH,2022-06-18,Banquet,Breakfast,,,28.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-18,Butchery,Breakfast,,,1276.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-18,Butchery,Lunch,,,976.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-18,Butchery,Dinner,,,1977.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-16,Butchery,Breakfast,,,1021.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-16,Butchery,Lunch,,,564.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-15,Garde Manger,Lunch,,,665.0,0.25,W
+APAC Hyatt Jeju CJUGH,2022-06-15,Garde Manger,Dinner,,,1459.0,0.25,W
+APAC Hyatt Bangkok BANGH,2022-06-18,Staff Canteen,Dinner,,,192.0,0.25,W
