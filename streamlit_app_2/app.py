@@ -3,5 +3,5 @@ import streamlit as st
 
 st.title('new app test')
 
-df = pd.read_csv('df_all_merged.csv')
+df = pd.read_csv('df_missings.csv')
 st.dataframe(df)
